@@ -1,2 +1,2 @@
 # Program1
-Strudy Basics of Github
+Study Basics of Github
